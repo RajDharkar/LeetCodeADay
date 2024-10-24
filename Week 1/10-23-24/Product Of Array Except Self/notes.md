@@ -13,3 +13,5 @@ tc = O(n)
 space complexity = O(1), other than array so i beat that challenge!
 
 just read editorial and realized how cooked my sol was, idk how people didn't think of this but funny.
+
+shouldve used a prefix product array and a suffix product array, weird question though. 
