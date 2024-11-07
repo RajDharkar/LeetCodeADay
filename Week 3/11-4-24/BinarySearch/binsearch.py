@@ -9,5 +9,6 @@ class Solution(object):
             elif nums[mid] > target:
                 right = mid
             else:
+                break
                 return mid
         return -1
